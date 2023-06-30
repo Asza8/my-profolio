@@ -1,0 +1,19 @@
+<doctype html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1> about me </h1>
+        <ul>
+          <li>my name is Yasser</li>
+          <li> i love music (rap at most)</li>
+          <li> im a very healthy guy / love doing sports</li>
+          <li> i like piano (i play it sometimes)</li>
+        </ul>
+        
+    </body>
+    </html>
